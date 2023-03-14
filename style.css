@@ -1,0 +1,45 @@
+.form-text {
+    font-size: 12px;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+.white-text {
+    color: white;
+}
+
+h6 {
+    text-align:left;
+}
+
+.line {
+    color: black;
+    margin-left: -17.5px;
+}
+.balance {
+   
+   padding-top: 10px;
+  padding-left: 20px;
+   margin-top: 20px;
+   margin-bottom: -30px;
+   margin-left: -17.5px;
+   border-top: .2px solid black; 
+   width: 288px;
+}
+.status {
+    font-size: 14px;
+}
+.login {
+    width: 90px;
+ padding: 5px;
+    margin-top: 10px;
+  border:none;
+    border-radius: 5px;
+   
+
+}
+
+.login a {
+    text-decoration: none;
+    color:black;
+}
